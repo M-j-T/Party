@@ -2,4 +2,4 @@
 Party time!!
 
 <br>
-<img border="0" src="http://tajima.nkmr.io/material/party.gif" alt="party">
+<img border="0" src="https://github.com/M-j-T/Party/party.gif" alt="party">
